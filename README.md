@@ -20,14 +20,31 @@
  <div align="center"> 
  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" ></div>
   
-<p>Hello, my name is Marcelo, I'm 22 years old, from the northeast of Brazil.
-I started my academic life at the Federal University of Sergipe, where I graduated in Petroleum Engineering for 3 years.
-But I realized that my area was IT, and I migrated to Computer Science at Faculdade Descomplica, where I am in the 4th semester.
-I've been specializing in web development, front end, using libraries like React.
-Professionally, I have experiences: at AIESEC; extension projects by UFS, at the Entrepreneurship Center; and currently at CEJP in the area of education, teaching programming to elementary school students 2.</p>
+Hello, my name is Marcelo, I am from Brazil, and I am 23 years old. I am a person fascinated by technology, innovation, and entrepreneurship.
 
-- 🔭 I’m not working at the moment  <br>
-- 😄 Pronouns: He / Him
+I began my academic journey at the Federal University of Sergipe, where I pursued a degree in Petroleum Engineering for 3 years. However, my true passion has always been technology, where I felt a strong connection. I transitioned to Computer Science in 2021 and am currently in the 6th semester at UniAmérica.
+
+I specialize in Front-End development. Here are the technologies I am proficient in:
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- NextJs
+- TailwindCSS
+- Git/GitHub
+
+Notable courses I have completed include:
+- CS50 Harvard, Computer Science.
+- Front-End Development (One project, by Alura + Oracle).
+- React Bootcamp (by XPe).
+
+In a professional context, I have been involved in various activities:
+- Volunteer at AIESEC.
+- Extension projects at UFS, at the Center for Entrepreneurship.
+- Volunteer at the Estudar Foundation.
+- Programming teacher at CEJP (private school) for middle school.
+- Co-Founder of inkPen, a startup in educational innovations.
 
 
 <div align="center">
