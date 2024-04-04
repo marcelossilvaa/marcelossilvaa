@@ -1,16 +1,16 @@
 <img align="right" alt="" height="300px" src="./me.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A8F800&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Marcelo+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A8F800&random=false&width=435&height=40&lines=Hello,+i'm+Marcelo!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 
 
 <p align="left">
-Muito prazer, sou o Marcelo, um jovem baiano de 24 anos apaixonado por tecnologia, inovação e empreendedorismo.
+🎯 Nice to meet you, I'm Marcelo, a 24-year-old young man from Bahia who is passionate about technology, innovation and entrepreneurship.
 
-Atualmente, trabalho como desenvolvedor front-end na Vasta e estou cursando Ciência da Computação na Uniamérica. 
-Embora tenha iniciado minha jornada acadêmica em Engenharia de Petróleo na Universidade Federal de Sergipe, sempre senti um forte chamado para a área de tecnologia. Em 2021, decidi seguir meu coração e fazer essa transição.
+📌 I currently work as a front-end developer at Vasta and studying Computer Science at Uniamérica.
+Although I started my academic journey in Petroleum Engineering at the Federal University of Sergipe (2019), I always felt a strong calling to the technology area. In 2021, I decided to follow my heart and make this transition.
 
-Como estudante e desenvolvedor front-end, estou constantemente buscando aprimorar minhas habilidades e conhecimentos, sempre em sintonia com as melhores práticas e tecnologias do nosso campo.
+🎓 As a student and front-end developer, I am constantly seeking to improve my skills and knowledge, always in tune with the best practices and technologies in our area.
 
 
 <h3 align="left">Connect with me!</h3>
@@ -19,7 +19,7 @@ Como estudante e desenvolvedor front-end, estou constantemente buscando aprimora
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A8F800&color:FFF)](https://www.linkedin.com/in/marcelossilva1/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=A8F800&color:FFF)](https://www.instagram.com/marcelossilva1/)
 
-<h3 align="left">My Stacks</h3>
+<h3 align="left">My Stacks:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
