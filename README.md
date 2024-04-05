@@ -13,14 +13,14 @@ Although I started my academic journey in Petroleum Engineering at the Federal U
 🎓 As a student and front-end developer, I am constantly seeking to improve my skills and knowledge, always in tune with the best practices and technologies in our area.
 
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Connect With Me</h3>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=link&logoColor=A8F800&color:FFF)](mailto:marcelo_810@hotmail.com)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=A8F800&color:FFF)](mailto:marcelo_810@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A8F800&color:FFF)](https://www.linkedin.com/in/marcelossilva1/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=A8F800&color:FFF)](https://www.instagram.com/marcelossilva1/)
 
-<h3 align="left">My Stacks:</h3>
+<h3 align="left">My Stacks</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
