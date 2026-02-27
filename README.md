@@ -37,7 +37,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Shopify_logo_2018.svg" height="25" alt="shopify logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" height="25" alt="shopify logo"  />
 </div>
 
 <h3>GitHub Stats</h3>
