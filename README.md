@@ -1,8 +1,8 @@
 <img align="right" alt="Marcelo Santana" height="300px" src="./me.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A8F800&random=false&width=480&height=40&lines=Hi,+I'm+Marcelo!+%F0%9F%91%BE;CRO+%26+Experimentation+Developer;A%2FB+Testing+%E2%80%A2+Personalization+%E2%80%A2+Front-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A8F800&random=false&width=480&height=40&lines=Hi,+I'm+Marcelo!+%F0%9F%91%BE;CRO+%26+Experimentation+Developer;Growth+Engineering;A%2FB+Testing+%E2%80%A2+Personalization+%E2%80%A2+Front-End)](https://git.io/typing-svg)
 
-### CRO & Experimentation Developer @ AI/R Webjump
+### CRO & Experimentation Developer · Growth Engineering @ AI/R Webjump
 
 **Hypotheses become experiments; experiments become revenue.**
 
@@ -10,7 +10,7 @@ I build and analyze A/B tests and personalizations for enterprise brands such as
 
 - 🧪 **Experimentation:** A/B tests and personalizations across web and app with Adobe Target, Optimizely and Insider
 - 📊 **Analytics:** hypothesis-driven analysis with A4T/Adobe Analytics and GA4; audience targeting via Data Layer and CDP
-- 💻 **Front-End:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, Shopify (Liquid and headless) and Capacitor
+- 💻 **Full Stack:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, Shopify (Liquid and headless) and Capacitor
 - 🤖 **AI tooling:** Claude Code, Cursor and n8n to speed up CRO development and operations
 
 🏅 Adobe Certified Professional: Adobe Target Business Practitioner · GitHub Copilot (Microsoft)<br>
