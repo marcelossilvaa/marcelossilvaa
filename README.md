@@ -1,13 +1,22 @@
-<img align="right" alt="" height="300px" src="./me.png">
+<img align="right" alt="Marcelo Santana" height="300px" src="./me.png">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A8F800&random=false&width=435&height=40&lines=Hello,+i'm+Marcelo!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A8F800&random=false&width=480&height=40&lines=Hi,+I'm+Marcelo!+%F0%9F%91%BE;CRO+%26+Experimentation+Developer;A%2FB+Testing+%E2%80%A2+Personalization+%E2%80%A2+Front-End)](https://git.io/typing-svg)
 
-<p align="left">
-🎯 Nice to meet you, I'm Marcelo, a 26-year-old from Vitória da Conquista, Bahia, passionate about technology, AI, and automation.
+### CRO & Experimentation Developer @ AI/R Webjump
 
-📌 I currently work as a Mid-level Front-end Developer at Webjump, delivering scalable solutions for major clients like Azul Linhas Aéreas and Nespresso. I hold a Bachelor's degree in Computer Science. Although my academic journey started in Petroleum Engineering at the Federal University of Sergipe (2019), I always felt a strong calling to the tech world. In 2021, I decided to follow my heart, made the transition, and haven't looked back since.
+**Hypotheses become experiments; experiments become revenue.**
 
-🎓 With solid experience in the field, I am constantly seeking to improve my skills and stay in tune with the best practices. I have a strong focus on e-commerce experiences with Shopify, building robust applications with Next.js, integrating with Node.js/PostgreSQL backends, and leveraging A/B testing to optimize user interfaces.
+I build and analyze A/B tests and personalizations for enterprise brands such as Azul Linhas Aéreas and Nespresso. I code the variant, set up the targeting and read the results in Adobe Analytics to decide the next test.
+
+- 🧪 **Experimentation:** A/B tests and personalizations across web and app with Adobe Target, Optimizely and Insider
+- 📊 **Analytics:** hypothesis-driven analysis with A4T/Adobe Analytics and GA4; audience targeting via Data Layer and CDP
+- 💻 **Front-End:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, Shopify (Liquid and headless) and Capacitor
+- 🤖 **AI tooling:** Claude Code, Cursor and n8n to speed up CRO development and operations
+
+🏅 Adobe Certified Professional: Adobe Target Business Practitioner · GitHub Copilot (Microsoft)<br>
+🎓 B.Sc. in Computer Science · 📍 Vitória da Conquista, Bahia, Brazil
+
+> Most of my CRO work lives in private client repositories. The public repos here are side projects and studies.
 
 <h3 align="left">Connect With Me</h3>
 
@@ -16,32 +25,40 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A8F800&color:FFF)](https://www.linkedin.com/in/marcelossilva1/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=A8F800&color:FFF)](https://www.instagram.com/marcelossilva1/)
 
-<h3 align="left">My Stacks</h3>
+<h3 align="left">CRO & Analytics</h3>
+
+![Adobe Target](https://img.shields.io/badge/Adobe_Target-000?style=for-the-badge&logo=adobe&logoColor=A8F800)
+![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-000?style=for-the-badge&logo=adobe&logoColor=A8F800)
+![Optimizely](https://img.shields.io/badge/Optimizely-000?style=for-the-badge&logo=optimizely&logoColor=A8F800)
+![GA4](https://img.shields.io/badge/GA4-000?style=for-the-badge&logo=googleanalytics&logoColor=A8F800)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-000?style=for-the-badge&logo=target&logoColor=A8F800)
+
+<h3 align="left">Front-End Stack</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" height="25" alt="tailwind logo"  />
-  <img width="8" />
-  <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" height="25" alt="nextjs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" height="25" alt="shopify logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="25" alt="tailwind logo" />
+<img width="8" />
+<img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" height="25" alt="nextjs logo" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo" />
+<img width="8" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" />
+<img width="8" />
+<img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" height="25" alt="shopify logo" />
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcelossilvaa/marcelossilvaa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcelossilvaa/marcelossilvaa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcelossilvaa/marcelossilvaa/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcelossilvaa/marcelossilvaa/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcelossilvaa/marcelossilvaa/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcelossilvaa/marcelossilvaa/output/github-contribution-grid-snake.svg">
 </picture>
